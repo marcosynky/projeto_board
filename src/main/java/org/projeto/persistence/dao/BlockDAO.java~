@@ -1,0 +1,4 @@
+package org.projeto.persistence.dao;
+
+public class BlockDAO {
+}

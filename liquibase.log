@@ -1,0 +1,39 @@
+mai. 22, 2025 9:27:03 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog=202505181138.sql
+mai. 22, 2025 9:27:03 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog=202505181139.sql
+mai. 22, 2025 9:27:03 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog=202505181140.sql
+mai. 22, 2025 9:27:03 AM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog=202505181141.sql
+mai. 22, 2025 9:27:03 AM liquibase.changelog
+INFO: Reading from `border-projeto`.databasechangelog
+Database is up to date, no changesets to execute
+mai. 22, 2025 9:27:03 AM liquibase.changelog
+INFO: Reading from `border-projeto`.databasechangelog
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               4
+Filtered out:                 0
+-------------------------------
+Total change sets:            4
+
+mai. 22, 2025 9:27:03 AM liquibase.util
+INFO: UPDATE SUMMARY
+mai. 22, 2025 9:27:03 AM liquibase.util
+INFO: Run:                          0
+mai. 22, 2025 9:27:03 AM liquibase.util
+INFO: Previously run:               4
+mai. 22, 2025 9:27:03 AM liquibase.util
+INFO: Filtered out:                 0
+mai. 22, 2025 9:27:03 AM liquibase.util
+INFO: -------------------------------
+mai. 22, 2025 9:27:03 AM liquibase.util
+INFO: Total change sets:            4
+mai. 22, 2025 9:27:03 AM liquibase.util
+INFO: Update summary generated
+mai. 22, 2025 9:27:03 AM liquibase.lockservice
+INFO: Successfully released change log lock
+mai. 22, 2025 9:27:03 AM liquibase.command
+INFO: Command execution complete

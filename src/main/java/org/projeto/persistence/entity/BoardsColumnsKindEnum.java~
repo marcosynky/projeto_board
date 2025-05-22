@@ -1,0 +1,6 @@
+package org.projeto.persistence.entity;
+
+public enum BoardsColumnsKindEnum {
+
+    INITIAL,FINAL,CANCEL,PENDING
+}
